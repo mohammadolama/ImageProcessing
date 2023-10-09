@@ -18,9 +18,9 @@ And the Final Results:
 
 Original Image         |      Final Result    
 :-------------------------:|:-------------------------:
-![startup](resources/im04.jpg "") |  ![menu](Result/res16.jpg) 
+![startup](Resources/im04.jpg) |  ![menu](Result/res16.jpg) 
 
 Original Image         |      Final Result    
 :-------------------------:|:-------------------------:
-![startup](resources/im03.jpg "") |  ![menu](Result/res15.jpg) 
+![startup](Resources/im03.jpg) |  ![menu](Result/res15.jpg) 
 
