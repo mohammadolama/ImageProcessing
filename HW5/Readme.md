@@ -9,4 +9,4 @@ And the Final Results:
 
 Original Image 1        |      Original Image 2      |  Final Result
 :-------------------------:|:-------------------------:|:-------------------------:
-![startup](Resources/beach.jpg "") |  ![menu](Resources/olaf-original.jpg) |  ![menu](Result/res07.JPG)
+![startup](Resources/beach.jpg "") |  ![menu](Resources/olaf-original.jpg) |  ![menu](Result/res07.jpg)
