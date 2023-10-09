@@ -10,11 +10,8 @@ The code can be found in TextureSynthesis.py. The details are provided in Persia
 
 
 ## Q3: Image Inpainting
- The code can be found in ImageInpainting.py. The details are provided in Persian in hw2.pdf file. You can see the input :
-![Alt text](resources/books.jpg "Title")
-And the Final Results: 
-
-
+ The code can be found in ImageInpainting.py. The details are provided in Persian in hw2.pdf file. You can see the 
+the Final Results: 
 
 Original Image         |      Final Result    
 :-------------------------:|:-------------------------:
